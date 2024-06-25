@@ -1,3 +1,4 @@
 # GO2022
 
-# [GO-00](https://www.example.com)
+# [GO-00](https://github.com/weijuan82113/Go-00.git)
+
